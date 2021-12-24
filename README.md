@@ -1,4 +1,4 @@
-Website design for internet programming I course
+I'm currently software enginnering bachelor degree student on AASTU.
 
 <!--
 **fuad-miftah/fuad-miftah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
