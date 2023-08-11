@@ -1,4 +1,4 @@
-I'm currently software enginnering bachelor degree student on AASTU.
+4'th year software engineering student at AASTU.
 
 <!--
 **fuad-miftah/fuad-miftah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
