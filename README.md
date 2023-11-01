@@ -6,7 +6,7 @@ I am a software engineering student at AASTU (Addis Ababa Science and Technology
 ## 🌟 Skills
 - Proficient in MERN stack development.
 - Strong knowledge of .NET Core and C#.
-- Experienced in competitive programming with Pythona.
+- Experienced in competitive programming with Python.
 - Experience in machine learning 🤖.
 
 ## 📞 Contact Me
